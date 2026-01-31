@@ -14,20 +14,17 @@ Win11 Glass Suite는 Windows 11의 유려한 Glassmorphism 디자인을 품은 �
 - **Spotify** 및 다양한 윈도우 미디어 세션과 호환됩니다.
 
 ![Media Control Placeholder]
-*(여기에 미디어 컨트롤 기능 스크린샷이 들어갈 예정입니다)*
+<img width="455" height="786" alt="image" src="https://github.com/user-attachments/assets/6a3e3517-0e34-4ca1-8466-f63aa3a3a5cc" />
 
-### 📊 실시간 시스템 모니터링
-- CPU 및 메모리 사용량을 직관적인 게이지와 텍스트로 확인하세요.
-- 시스템의 현재 부하 상태를 한눈에 파악할 수 있습니다.
 
-![System Monitor Placeholder]
-*(여기에 시스템 모니터링 섹션 스크린샷이 들어갈 예정입니다)*
 
 ### ☁️ 실시간 날씨 정보
 - 사용자의 현재 위치(서울 기준 설정)의 기온과 날씨 상태를 실시간으로 업데이트합니다.
 
 ![Weather Placeholder]
-*(여기에 날씨 위젯 스크린샷이 들어갈 예정입니다)*
+<img width="422" height="774" alt="image" src="https://github.com/user-attachments/assets/7d652b42-256c-48c1-b03a-1ae56537c65c" />
+
+
 
 ## 🚀 시작하기
 
